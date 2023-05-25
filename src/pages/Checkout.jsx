@@ -50,7 +50,7 @@ const Checkout = () => {
                       <span className="absolute left-3 top-3.5 text-isPrimary w-2">
                         <MASTER_CARD_ICON />
                       </span>
-                      <Input type="text" placeholder="2412     -     7512     -     3412     -     3456" classes='md:text-left md:pl-12' />
+                      <Input type="text" placeholder="2412    -    7512    -    3412    -    3456" classes='md:text-left md:pl-12' />
                       <span className="absolute right-3 top-3.5 text-isPrimary">
                         <ICONS.MdVerified />
                       </span>
