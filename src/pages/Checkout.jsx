@@ -100,7 +100,7 @@ const Checkout = () => {
               <aside className="-order-1 md:order-1 md:w-[28%] md:mx-auto">
                 <section className="bg-isGray10 px-8 py-1.5 pb-4 mt-6 rounded-lg md:mt-0 md:px-10">
                   <div className="hidden bg-white px-5 py-8 rounded-xl relative overflow-hidden w-[85%] mx-auto drop-shadow-2xl md:block md:w-[100%] md:-mt-20">
-                    <span className="absolute w-16 h-1 bg-isPrimary -top-1 left-[30%]"></span>
+                    <span className="absolute w-16 h-1 bg-isPrimary -top-[2px] left-[30%]"></span>
                     <Ripple classes='w-72 h-72 -bottom-20 -left-10'/>
                     <Ripple classes='w-64 h-64 -bottom-16 -left-4'/>
                     <Ripple />
