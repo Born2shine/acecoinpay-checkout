@@ -3,7 +3,7 @@ import * as ICONS from "../assets/icons";
 import { Circle, Input, Label, Ripple, SingleCardInfo, SingleDot, SingleTimeCounter } from "../components";
 import { MASTER_CARD_ICON } from "../assets/svgs";
 
-const Home = () => {
+const Checkout = () => {
   return (
     <main>
       <section className="p-4 pt-8 m-4 bg-white relative md:w-[85%] md:mx-auto lg:w-[90%] xl:w-[70%] md:pt-12 md:mt-8">
@@ -177,4 +177,4 @@ const Home = () => {
   );
 };
 
-export default Home;
+export default Checkout;
